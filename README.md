@@ -14,6 +14,8 @@ As mentioned in the link,
 - Send Escape if you tap Caps Lock alone.
 - Send Control if you press Caps Lock with another key.
 
+Add these commands to `~/.bashrc` for persistence. Run `source ~/.bashrc` for changes to take effect in current shell session.
+
 ```bash
 sudo apt install xcape
 
