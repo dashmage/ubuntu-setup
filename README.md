@@ -60,3 +60,6 @@ Main config file: ~/.config/regolith/Xresources
 ```
 gnome.terminal.font: RobotoMono Nerd Font 18
 ```
+
+# Installed Software
+- [VSCode](https://code.visualstudio.com/docs/setup/linux#_debian-and-ubuntu-based-distributions)
