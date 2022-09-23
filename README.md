@@ -14,8 +14,6 @@ As mentioned in the link,
 - Send Escape if you tap Caps Lock alone.
 - Send Control if you press Caps Lock with another key.
 
-Add these commands to `~/.bashrc` for persistence. Run `source ~/.bashrc` for changes to take effect in current shell session.
-
 ```bash
 sudo apt install xcape
 
@@ -25,6 +23,8 @@ setxkbmap -option ctrl:nocaps
 # make short-pressed Ctrl behave like Escape:
 xcape -e 'Control_L=Escape'
 ```
+
+Append code to `~/.xprofile` to run the commands when X starts.
 
 # Regolith Setup
 Refer docs for [basic usage](https://regolith-desktop.com/docs/using-regolith/basics/) and [configuration](https://regolith-desktop.com/docs/using-regolith/configuration/)
