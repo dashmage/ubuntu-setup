@@ -45,7 +45,9 @@ sudo apt install regolith-compositor-picom-glx
 ```
 
 ### Theme
-Themes are setup with `Regolith Look`. Gallery [here](https://regolith-linux.org/docs/reference/looks/),
+Themes are setup with `Regolith Look`. Gallery [here](https://regolith-linux.org/docs/reference/looks/).
+
+`Win+Alt+l` to change themes.
 
 ```bash
 sudo apt install regolith-look-dracula
@@ -60,6 +62,8 @@ Main config file: ~/.config/regolith/Xresources
 ```
 gnome.terminal.font: RobotoMono Nerd Font 18
 ```
+
+To refresh, run `regolith-look refresh`
 
 # Installed Software
 - [VSCode](https://code.visualstudio.com/docs/setup/linux#_debian-and-ubuntu-based-distributions)
