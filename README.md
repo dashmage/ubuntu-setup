@@ -39,7 +39,7 @@ sudo apt install i3xrocks-battery
 ```
 
 ### Compositor
-Make sure to log out for the changes to take effect.
+Refer [this](https://regolith-desktop.com/docs/howtos/customize-compositor/). Make sure to log out and then log back in for the changes to take effect.
 ```bash
 sudo apt install regolith-compositor-picom-glx
 ```
