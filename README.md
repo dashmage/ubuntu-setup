@@ -69,3 +69,6 @@ To refresh, run `regolith-look refresh`
 
 # Installed Software
 - [VSCode](https://code.visualstudio.com/docs/setup/linux#_debian-and-ubuntu-based-distributions)
+
+# Want to Check Out
+- [z - jump around](https://github.com/rupa/z)
