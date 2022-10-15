@@ -67,6 +67,8 @@ gnome.terminal.font: RobotoMono Nerd Font 18
 
 To refresh, run `regolith-look refresh`
 
+[Add internal padding to gnome terminal](https://trendoceans.com/increase-padding-in-gnome-terminal/)
+
 # Installed Software
 - [VSCode](https://code.visualstudio.com/docs/setup/linux#_debian-and-ubuntu-based-distributions)
 
