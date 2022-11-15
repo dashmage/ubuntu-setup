@@ -65,6 +65,12 @@ Main config file: ~/.config/regolith/Xresources
 gnome.terminal.font: RobotoMono Nerd Font 18
 ```
 
+Override i3 config file using [user staged file](https://regolith-linux.org/docs/howtos/stage-configs/)
+- [Assign workspace to specific monitor](https://regolith-linux.org/docs/howtos/workspace-on-output/)
+```
+workspace "$ws1" output DP-1
+```
+
 To refresh, run `regolith-look refresh`
 
 [Add internal padding to gnome terminal](https://trendoceans.com/increase-padding-in-gnome-terminal/)
@@ -77,5 +83,3 @@ To refresh, run `regolith-look refresh`
 
 # Want to Check Out
 - [z - jump around](https://github.com/rupa/z)
-
-
