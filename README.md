@@ -71,6 +71,11 @@ To refresh, run `regolith-look refresh`
 
 # Installed Software
 - [VSCode](https://code.visualstudio.com/docs/setup/linux#_debian-and-ubuntu-based-distributions)
+- [Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
+- [fzf](https://github.com/junegunn/fzf)
+- [hexchat](https://flathub.org/apps/details/io.github.Hexchat)
 
 # Want to Check Out
 - [z - jump around](https://github.com/rupa/z)
+
+
