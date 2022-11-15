@@ -1,5 +1,7 @@
 Notes to document my Ubuntu 22.04 setup process. I'm trying out [Regolith](https://regolith-desktop.com) for a TWM experience with sane defaults.
 
+Note: Following Regolith2, so the configuration is different from Regolith
+
 # Basics
 
 ## Enable tap-to-click
@@ -59,16 +61,10 @@ sudo apt install regolith-look-dracula
 ```
 
 ### Misc
-Main config file: ~/.config/regolith/Xresources
+Main config file: ~/.config/regolith2/Xresources
 - changed terminal font
 ```
 gnome.terminal.font: RobotoMono Nerd Font 18
-```
-
-Override i3 config file using [user staged file](https://regolith-linux.org/docs/howtos/stage-configs/)
-- [Assign workspace to specific monitor](https://regolith-linux.org/docs/howtos/workspace-on-output/)
-```
-workspace "$ws1" output DP-1
 ```
 
 To refresh, run `regolith-look refresh`
