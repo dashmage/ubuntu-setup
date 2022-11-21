@@ -85,3 +85,12 @@ To refresh, run `regolith-look refresh`
 - [z - jump around](https://github.com/rupa/z)
 
 [Save git credentials](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)
+
+### Manage dotfiles
+Using [Chezmoi](https://www.chezmoi.io/). Dotfiles are stored [here](https://github.com/dashmage/dotfiles/).
+
+Reference links:
+- https://www.chezmoi.io/quick-start/
+- https://www.chezmoi.io/user-guide/frequently-asked-questions/usage/
+- https://www.chezmoi.io/user-guide/frequently-asked-questions/design/
+
