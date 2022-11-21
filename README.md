@@ -1,9 +1,13 @@
 Notes to document my Ubuntu 22.04 setup process. I'm trying out [Regolith](https://regolith-desktop.com) for a TWM experience with sane defaults.
 
 Note: Following Regolith2, so the configuration is different from Regolith
+<<<<<<< Updated upstream
 
 # Basics
+=======
+>>>>>>> Stashed changes
 
+# Basics
 ## Enable tap-to-click
 ```bash
 gsettings set org.gnome.desktop.peripherals.touchpad tap-to-click true
@@ -79,3 +83,5 @@ To refresh, run `regolith-look refresh`
 
 # Want to Check Out
 - [z - jump around](https://github.com/rupa/z)
+
+[Save git credentials](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)
