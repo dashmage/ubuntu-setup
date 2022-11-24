@@ -1,11 +1,9 @@
 Notes to document my Ubuntu 22.04 setup process. I'm trying out [Regolith](https://regolith-desktop.com) for a TWM experience with sane defaults.
 
 Note: Following Regolith2, so the configuration is different from Regolith
-<<<<<<< Updated upstream
 
 # Basics
 =======
->>>>>>> Stashed changes
 
 # Basics
 ## Enable tap-to-click
@@ -74,6 +72,9 @@ gnome.terminal.font: RobotoMono Nerd Font 18
 To refresh, run `regolith-look refresh`
 
 [Add internal padding to gnome terminal](https://trendoceans.com/increase-padding-in-gnome-terminal/)
+
+### NvChad
+Check out https://docs.rockylinux.org/books/nvchad/
 
 # Installed Software
 - [VSCode](https://code.visualstudio.com/docs/setup/linux#_debian-and-ubuntu-based-distributions)
