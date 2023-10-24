@@ -120,7 +120,7 @@ Host myhost
 - Manage SSH keys and GPG keys.
 - Ansible to automate (atleast part of) the setup.
 - LUKS encryption
--   https://help.ubuntu.com/community/Full_Disk_Encryption_Howto_2019
--   https://gist.github.com/luispabon/db2c9e5f6cc73bb37812a19a40e137bc
--   https://gist.github.com/superjamie/d56d8bc3c9261ad603194726e3fef50f
+  -   https://help.ubuntu.com/community/Full_Disk_Encryption_Howto_2019
+  -   https://gist.github.com/luispabon/db2c9e5f6cc73bb37812a19a40e137bc
+  -   https://gist.github.com/superjamie/d56d8bc3c9261ad603194726e3fef50f
 
