@@ -112,6 +112,13 @@ Host myhost
   RemoteCommand tmux new -A -s ssh_tmux
 ```
 
+## Mattermost Dark Theme
+Settings --> Display --> Theme --> Custom Theme
+
+```json
+{"sidebarBg":"#333333","sidebarText":"#ffffff","sidebarUnreadText":"#ffffff","sidebarTextHoverBg":"#222222","sidebarTextActiveBorder":"#757575","sidebarTextActiveColor":"#ffffff","sidebarHeaderBg":"#333333","sidebarHeaderTextColor":"#ffffff","onlineIndicator":"#64dd17","awayIndicator":"#ffc107","dndIndicator":"#d32f2f","mentionBj":"#f57f17","mentionColor":"#333333","centerChannelBg":"#333333","centerChannelColor":"#ffffff","newMessageSeparator":"#f57f17","linkColor":"#039be5","buttonBg":"#039be5","buttonColor":"#ffffff","errorTextColor":"#e53935","mentionHighlightBg":"#4a4943","mentionHighlightLink":"#03a9f4","codeTheme":"monokai","mentionBg":"#f57f17","sidebarTeamBarBg":"#282828"}
+```
+
 # Misc
 [Save git credentials](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)
 
